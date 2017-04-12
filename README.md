@@ -1,7 +1,6 @@
-# Custom status bar and buffer tabs
-## Simply copy and paste to the end of your vimrc
+# Custom status line and buffer tabs
 
-A <code>~/.vimrc</code> lightweight alternative to the Airline or similar plugins.
+A <code>~/.vimrc</code> lightweight alternative to the Airline or similar plugins. To use, copy and paste the <code>airline-light.vim</code> contents to the end of your <code>~/.vimrc</code>, and, to recreate the screenshot, change your theme to gruvbox.
 
 ### Screenshot
 
