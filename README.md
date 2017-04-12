@@ -1,5 +1,7 @@
 # Easy-to-customize status line and buffer tabs
 
+Vimscript intented as a springboard for your own personal tab bar and status line customizations.
+
 A <code>.vimrc</code> lightweight alternative to the Airline or similar plugins. To use, copy and paste the <code>airline-light.vim</code> contents to the end of your <code>.vimrc</code>, and, to recreate the screenshot, change your theme to gruvbox. Alternatively, you can choose to only copy the buffer tab code, or just the status line code - they are independent.
 
 ### References
